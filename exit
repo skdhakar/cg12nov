@@ -1,0 +1,91 @@
+[33mcommit 35c59f51ce17e4f6719d162b9ba8907ebd202a2a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mfeature1[m[33m)[m
+Merge: 04242f1 54663e5
+Author: skdhakar <dhakad.suresh@yahoo.com>
+Date:   Fri Nov 15 16:51:31 2019 +0530
+
+    merge f1 and f2 then resolved the conflict
+
+[33mcommit 54663e564a36bd7f81e16141fdef9d43cc33c3d1[m[33m ([m[1;32mfeature2[m[33m)[m
+Author: skdhakar <dhakad.suresh@yahoo.com>
+Date:   Fri Nov 15 16:44:56 2019 +0530
+
+    added new line in a.txt by f2
+
+[33mcommit 04242f11d628558f0625013da0e7dab84fea5e5c[m
+Author: skdhakar <dhakad.suresh@yahoo.com>
+Date:   Fri Nov 15 16:43:38 2019 +0530
+
+    added changes a.txt by f1
+
+[33mcommit 2ade0313711449c068695da85d883c1346bb56c2[m
+Author: skdhakar <dhakad.suresh@yahoo.com>
+Date:   Fri Nov 15 16:42:41 2019 +0530
+
+    added new file c.txt by f2
+
+[33mcommit ab04df74b2814ce3d4cd6c002d703d0ab0a8180f[m
+Author: skdhakar <dhakad.suresh@yahoo.com>
+Date:   Fri Nov 15 15:13:41 2019 +0530
+
+    add b file
+
+[33mcommit abe11af4f66cc15ec1003f2023014a46c538b701[m
+Author: skdhakar <dhakad.suresh@yahoo.com>
+Date:   Wed Nov 13 17:00:59 2019 +0530
+
+    add new file
+
+[33mcommit 69c9048fe78c3bd998589ad88185e4363426edf9[m
+Author: skdhakar <dhakad.suresh@yahoo.com>
+Date:   Wed Nov 13 16:59:55 2019 +0530
+
+    test
+
+[33mcommit 1a61b594f6f79c17df1e0f8fdd057464450ec4c7[m
+Merge: 35a719e 6dc72fa
+Author: skdhakar <dhakad.suresh@yahoo.com>
+Date:   Tue Nov 12 12:17:10 2019 +0530
+
+    test
+
+[33mcommit 6dc72fad41d070b0266329d616437d88cc6d1924[m
+Author: skdhakar <dhakad.suresh@yahoo.com>
+Date:   Tue Nov 12 12:12:53 2019 +0530
+
+    first commit in b and c txt for feature branch
+
+[33mcommit 35a719e1a5e568c460d4acb3696dc664f5572d06[m
+Author: skdhakar <dhakad.suresh@yahoo.com>
+Date:   Tue Nov 12 12:10:05 2019 +0530
+
+    delete a
+
+[33mcommit 2c516edf7e1964d09c3c0cb4e924dd2ec642cc7a[m
+Author: Dhakar <suresh-chandra.dhakar@capgemini.com>
+Date:   Tue Nov 12 11:51:27 2019 +0530
+
+    test
+
+[33mcommit e044d2d3212d5170fc3f3da11ca519da680da76d[m
+Author: Dhakar <sureshchandra.dhakar@motorolasolutions.com>
+Date:   Tue Nov 12 11:49:46 2019 +0530
+
+    test
+
+[33mcommit 86b8f471b8d1a8ca067b5014123605b7205f174a[m
+Author: RVDJ43 <sureshchandra.dhakar@motorolasolutions.com>
+Date:   Tue Nov 12 11:45:12 2019 +0530
+
+    test
+
+[33mcommit 462763c1e59d2fff0cdb989e32b8723e1a53cf1e[m
+Author: RVDJ43 <sureshchandra.dhakar@motorolasolutions.com>
+Date:   Tue Nov 12 11:09:18 2019 +0530
+
+    commit for a and b file
+
+[33mcommit 5848fa14ffe2f81fa6670c64478246a14f307378[m
+Author: RVDJ43 <sureshchandra.dhakar@motorolasolutions.com>
+Date:   Tue Nov 12 11:04:39 2019 +0530
+
+    this is first commit for a.txt
