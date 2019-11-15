@@ -1,1 +1,1 @@
-this is first line in c
+create new file by a2 by feature2
